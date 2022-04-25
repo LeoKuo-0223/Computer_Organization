@@ -1,0 +1,15 @@
+C:/Users/leo90/ComputerOrganization/HW1/CS.v {1 {vlog -work work C:/Users/leo90/ComputerOrganization/HW1/CS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CS
+
+Top level modules:
+	CS
+
+} {} {}} C:/Users/leo90/ComputerOrganization/HW1/testfixture.v {1 {vlog -work work C:/Users/leo90/ComputerOrganization/HW1/testfixture.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\leo90\ComputerOrganization\HW1
+vtraffic_light
+!i10b 1
+!s100 `2K`zM0IHb;03=[aEgQoo0
+I2<;6NhXNdOo8]H;QoOSki3
+Z1 V`U4]1oP5j2<dTXM9i3Zd41
+Z2 dC:\Users\leo90\ComputerOrganization\HW2
+w1646835839
+Z3 8C:/Users/leo90/ComputerOrganization/HW2/traffic_light.v
+Z4 FC:/Users/leo90/ComputerOrganization/HW2/traffic_light.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1646835848.569000
+!s107 C:/Users/leo90/ComputerOrganization/HW2/traffic_light.v|
+Z6 !s90 -reportprogress|300|-work|work|C:/Users/leo90/ComputerOrganization/HW2/traffic_light.v|
+!s101 -O0
+Z7 o-work work -O0
+vtraffic_light_tb
+Z8 !s100 W8L?N8aD`jdWVG47HC^iV2
+Z9 I_EYBodbS<iEThz^2J=W<n0
+Z10 VN4X_9^ER9K^ggc_Mhiif80
+R2
+Z11 w1646552590
+Z12 8C:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v
+Z13 FC:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v
+L0 7
+R5
+r1
+31
+Z14 !s90 -reportprogress|300|-work|work|C:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v|
+R7
+Z15 !s108 1646568753.058000
+Z16 !s107 C:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0

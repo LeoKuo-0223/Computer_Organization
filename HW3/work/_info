@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vSME
+Z1 I7LD1H[6J0UNJg_cFO[3nJ1
+Z2 V@Kb`@ZgLnHX>ThB@RO]KZ3
+Z3 dC:\Users\leo90\ComputerOrganization\HW3
+Z4 w1648901424
+Z5 8C:/Users/leo90/ComputerOrganization/HW3/SME.v
+Z6 FC:/Users/leo90/ComputerOrganization/HW3/SME.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/leo90/ComputerOrganization/HW3/SME.v|
+Z9 o-work work -O0
+Z10 n@s@m@e
+!i10b 1
+Z11 !s100 c@IRBY<KLIeGIUJz6e?cd1
+!s85 0
+Z12 !s108 1648901835.386000
+Z13 !s107 C:/Users/leo90/ComputerOrganization/HW3/SME.v|
+!s101 -O0
+Xtb_sv_unit
+Z14 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z15 !s100 Z`Fo_CN1alkIFjH:>a2N@2
+Z16 IO2A?gI`z]Jzn[o`^2Zl0S3
+Z17 VO2A?gI`z]Jzn[o`^2Zl0S3
+!i103 1
+S1
+R3
+Z18 w1647880598
+Z19 8C:/Users/leo90/ComputerOrganization/HW3/tb.sv
+Z20 FC:/Users/leo90/ComputerOrganization/HW3/tb.sv
+Z21 L0 239
+R7
+r1
+!s85 0
+31
+Z22 !s108 1648901835.455000
+Z23 !s107 C:/Users/leo90/ComputerOrganization/HW3/tb.sv|
+Z24 !s90 -reportprogress|300|-work|work|-sv|C:/Users/leo90/ComputerOrganization/HW3/tb.sv|
+!s101 -O0
+Z25 o-work work -sv -O0
+vtestfixture
+R14
+!i10b 1
+Z26 !s100 J;?O;9^gIH>Fa>eJhlB@U2
+Z27 I]YSIUfKj??o5P7^Z]Q<bL3
+Z28 VKBIIT=eCh7cJh[^JXBGX00
+Z29 !s105 tb_sv_unit
+S1
+R3
+R18
+R19
+R20
+L0 6
+R7
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+R25

@@ -1,0 +1,15 @@
+C:/Users/leo90/ComputerOrganization/HW2/traffic_light.v {1 {vlog -work work C:/Users/leo90/ComputerOrganization/HW2/traffic_light.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module traffic_light
+
+Top level modules:
+	traffic_light
+
+} {} {}} C:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v {1 {vlog -work work C:/Users/leo90/ComputerOrganization/HW2/traffic_light_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module traffic_light_tb
+
+Top level modules:
+	traffic_light_tb
+
+} {} {}}
