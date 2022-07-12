@@ -1,0 +1,31 @@
+C:/Users/leo90/Computer_Organization/HW4/top.v {1 {vlog -work work C:/Users/leo90/Computer_Organization/HW4/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/leo90/Computer_Organization/HW4/SRAM.v {1 {vlog -work work C:/Users/leo90/Computer_Organization/HW4/SRAM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} C:/Users/leo90/Computer_Organization/HW4/CPU.v {1 {vlog -work work C:/Users/leo90/Computer_Organization/HW4/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/leo90/Computer_Organization/HW4/top_tb.v {1 {vlog -work work C:/Users/leo90/Computer_Organization/HW4/top_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
